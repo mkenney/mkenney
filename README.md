@@ -6,9 +6,6 @@ Well-rounded, goal oriented, professional software developer with extensive expe
 
 A few of the projects I work on in my free time.
 
-<sup><a href="https://github.com/mkenney?tab=repositories">full list</a></sup><br>
-<sup><a href="https://github.com/bdlm?tab=repositories">full list</a></sup>
-
 <table><tr>
     <td width="20%" align="center" valign="middle">
         <a href="https://www.linkedin.com/in/michaelkenney"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
