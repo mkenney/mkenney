@@ -69,7 +69,7 @@ Well-rounded, goal oriented, professional software developer with extensive expe
             <li>verbose output including the full backtrace of logger calls.</li>
             <li>gRPC request interceptors.</li>
         </ul>
-        <sup>...more</sup>
+        <sup><a href="https://github.com/bdlm/log/blob/master/README.md">...more</a></sup>
         </p>
     </td>
 </tr><tr>
