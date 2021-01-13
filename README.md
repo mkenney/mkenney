@@ -1,3 +1,7 @@
+<h2 align="center"><code>whoami</code></h2>
+
+Well-rounded, goal oriented, professional software developer with extensive experience planning, developing and implementing a wide variety of solutions for both large corporations and small startups. In addition to being a highly skilled software engineer, specialties include designing both technical and non-technical solutions to meet all types of business needs, crafting and implementing development processes and leading teams to deliver high-quality software. Interested in a software engineering position that makes use of skills developed over years of solving the complex problems that businesses face.
+
 <p align="center" valign="top">
     <a href="https://github.com/mkenney"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mkenney&repo=go-chrome" /></a>
     <a href="https://github.com/mkenney"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mkenney&repo=docker-npm" /></a>
@@ -21,10 +25,6 @@
     <a href="https://github.com/mkenney"><img width="54%" src="https://github-readme-stats.vercel.app/api?username=mkenney" /></a>
     <a href="https://github.com/anuraghazra/convoychat"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkenney&hide=perl,vim+script,html,css&langs_count=20&layout=compact" /></a>
 </p>
-
-<h2 align="center"><code>whoami</code></h2>
-
-Well-rounded, goal oriented, professional software developer with extensive experience planning, developing and implementing a wide variety of solutions for both large corporations and small startups. In addition to being a highly skilled software engineer, specialties include designing both technical and non-technical solutions to meet all types of business needs, crafting and implementing development processes and leading teams to deliver high-quality software. Interested in a software engineering position that makes use of skills developed over years of solving the complex problems that businesses face.
 
 <!--
 **mkenney/mkenney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
