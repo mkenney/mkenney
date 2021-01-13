@@ -26,7 +26,7 @@ A few of the projects I work on in my free time.
     </td>
 </tr><tr>
     <td width="20%" align="center" valign="middle">
-        <img src="https://github.com/mkenney/go-chrome/wiki/assets/images/gopher-logo.png" width="300px">
+        <a href="https://github.com/mkenney/go-chrome/blob/master/README.md"><img src="https://github.com/mkenney/go-chrome/wiki/assets/images/gopher-logo.png"></a>
     </td><td width="80%">
         <h3><a href="https://github.com/mkenney/go-chrome/blob/master/README.md">go-chrome</a></h3>
         <p>A golang library for interacting with the <a href="https://chromedevtools.github.io/devtools-protocol/">Chrome DevTools Protocol</a>.</p>
