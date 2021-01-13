@@ -25,37 +25,6 @@ A few of the things that keep me busy.
         <sup><a href="https://github.com/mkenney/Resume/blob/master/Michael%20Kenney%20-%20Resume.pdf">...more</a></sup>
     </td>
 </tr><tr>
-    <td width="20%" align="center" valign="middle">
-        <a href="https://github.com/mkenney/go-chrome/blob/master/README.md"><img src="https://github.com/mkenney/go-chrome/wiki/assets/images/gopher-logo.png"></a>
-    </td><td width="80%">
-        <h3><a href="https://github.com/mkenney/go-chrome/blob/master/README.md">go-chrome</a></h3>
-        <p>A golang library for interacting with the <a href="https://chromedevtools.github.io/devtools-protocol/">Chrome DevTools Protocol</a>.</p>
-        <p><code>go-chrome</code> aims to be a complete <a href="https://chromedevtools.github.io/devtools-protocol/">Chrome DevTools Protocol</a> implementation. The primary use-case behind this project is interacting with <a href="https://developers.google.com/web/updates/2017/04/headless-chrome">headless Google Chrome</a> in a container environment, but it should be appropriate for developing server side and desktop applications for any browser that supports the devtools protocol.</p>
-    </td>
-</tr><tr>
-    <td width="20%" align="right" valign="middle">
-        <a href="https://github.com/mkenney/k8s-proxy/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mkenney/k8s-proxy.svg" alt="MIT License"></a>
-        <a href="https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#alpha"><img src="https://img.shields.io/badge/stability-alpha-f4d03f.svg" alt="Alpha"></a>
-        <a href="https://travis-ci.org/mkenney/k8s-proxy"><img src="https://travis-ci.org/mkenney/k8s-proxy.svg?branch=master" alt="Build status"></a>
-        <a href="https://codecov.io/gh/mkenney/k8s-proxy"><img src="https://img.shields.io/codecov/c/github/mkenney/k8s-proxy/master.svg" alt="Coverage status"></a>
-    </td><td width="80%">
-        <h3><a href="https://github.com/mkenney/k8s-proxy/blob/master/README.md">k8s-proxy</a></h3>
-        <p>A simple, dynamic HTTP ingress service for Kubernetes development environments.</p>
-        <p><code>k8s-proxy</code> provides a simple HTTP proxy service for easily working with multiple web services in a <a href="https://kubernetes.io/">Kubernetes</a> development environment. A <a href="https://hub.docker.com/r/mkenney/k8s-proxy/">Docker image</a> is available.</p>
-    </td>
-</tr><tr>
-    <td width="20%" align="right" valign="middle">
-        <a href="https://hub.docker.com/r/mkenney/npm"><img src="http://docker-badges.webbedlam.com/image/mkenney/npm"></a>
-        <a href="https://github.com/mkenney/docker-npm/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mkenney/docker-npm.svg" alt="MIT License"></a>
-        <a href="https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#mature"><img src="https://img.shields.io/badge/stability-mature-008000.svg" alt="Mature"></a>
-        <a href="https://travis-ci.org/mkenney/docker-npm"><img src="https://travis-ci.org/mkenney/docker-npm.svg?branch=master" alt="Build status"></a>
-        <a href="https://github.com/mkenney/docker-npm/issues"><img src="https://img.shields.io/github/issues-raw/mkenney/docker-npm.svg" alt="Open Issues"></a>
-    </td><td width="80%">
-        <h3><a href="https://github.com/mkenney/docker-npm/blob/master/README.md">docker-npm</a></h3>
-        <p>npm, yarn, node, npx, bower, grunt, gulp, generate-md - build and dev tools.</p>
-        <p><code>docker-npm</code> provides a set of <a href="https://github.com/mkenney/docker-npm/tree/master/bin">shell scripts</a> that manage <a href="https://nodejs.org/">Node.js</a> docker images. The <a href="https://hub.docker.com/r/mkenney/npm/tags/">images</a> contain the latest stable <code>bower</code>, <code>generate-md</code>, <code>grunt</code>, <code>gulp</code>, <code>node</code>, <code>npm</code>, <code>npx</code>, and <code>yarn</code>, binaries for <a href="https://hub.docker.com/_/node/"><code>node</code></a>.</p>
-    </td>
-</tr><tr>
     <td width="20%" align="right" valign="middle">
         <a href="https://github.com/bdlm/log/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT"></a>
         <a href="https://github.com/bdlm/log/blob/master/CHANGELOG.md"><img src="https://img.shields.io/github/v/release/bdlm/log" alt="Release"></a>
@@ -88,6 +57,37 @@ A few of the things that keep me busy.
         <p><code>bdlm/errors</code> provides simple, concise, useful error handling and annotation. This package aims to implement the <a href="https://go.googlesource.com/proposal/+/master/design/go2draft-error-inspection.md">Error Inspection</a> and <a href="https://go.googlesource.com/proposal/+/master/design/go2draft-error-values-overview.md">Error Values</a> Go2 <a href="https://go.googlesource.com/proposal/+/master/design/go2draft.md">draft designs</a> with full error trace support. Implements <a href="https://github.com/bdlm/std/blob/master/errors/error.go">several useful interfaces</a> including <code>Wrapper</code>, <code>Caller</code>, and <code>Error</code>.
         <br><sup><a href="https://github.com/bdlm/errors/blob/master/README.md">...more</a></sup>
         </p>
+    </td>
+</tr><tr>
+    <td width="20%" align="center" valign="middle">
+        <a href="https://github.com/mkenney/go-chrome/blob/master/README.md"><img src="https://github.com/mkenney/go-chrome/wiki/assets/images/gopher-logo.png"></a>
+    </td><td width="80%">
+        <h3><a href="https://github.com/mkenney/go-chrome/blob/master/README.md">go-chrome</a></h3>
+        <p>A golang library for interacting with the <a href="https://chromedevtools.github.io/devtools-protocol/">Chrome DevTools Protocol</a>.</p>
+        <p><code>go-chrome</code> aims to be a complete <a href="https://chromedevtools.github.io/devtools-protocol/">Chrome DevTools Protocol</a> implementation. The primary use-case behind this project is interacting with <a href="https://developers.google.com/web/updates/2017/04/headless-chrome">headless Google Chrome</a> in a container environment, but it should be appropriate for developing server side and desktop applications for any browser that supports the devtools protocol.</p>
+    </td>
+</tr><tr>
+    <td width="20%" align="right" valign="middle">
+        <a href="https://github.com/mkenney/k8s-proxy/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mkenney/k8s-proxy.svg" alt="MIT License"></a>
+        <a href="https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#alpha"><img src="https://img.shields.io/badge/stability-alpha-f4d03f.svg" alt="Alpha"></a>
+        <a href="https://travis-ci.org/mkenney/k8s-proxy"><img src="https://travis-ci.org/mkenney/k8s-proxy.svg?branch=master" alt="Build status"></a>
+        <a href="https://codecov.io/gh/mkenney/k8s-proxy"><img src="https://img.shields.io/codecov/c/github/mkenney/k8s-proxy/master.svg" alt="Coverage status"></a>
+    </td><td width="80%">
+        <h3><a href="https://github.com/mkenney/k8s-proxy/blob/master/README.md">k8s-proxy</a></h3>
+        <p>A simple, dynamic HTTP ingress service for Kubernetes development environments.</p>
+        <p><code>k8s-proxy</code> provides a simple HTTP proxy service for easily working with multiple web services in a <a href="https://kubernetes.io/">Kubernetes</a> development environment. A <a href="https://hub.docker.com/r/mkenney/k8s-proxy/">Docker image</a> is available.</p>
+    </td>
+</tr><tr>
+    <td width="20%" align="right" valign="middle">
+        <a href="https://hub.docker.com/r/mkenney/npm"><img src="http://docker-badges.webbedlam.com/image/mkenney/npm"></a>
+        <a href="https://github.com/mkenney/docker-npm/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mkenney/docker-npm.svg" alt="MIT License"></a>
+        <a href="https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#mature"><img src="https://img.shields.io/badge/stability-mature-008000.svg" alt="Mature"></a>
+        <a href="https://travis-ci.org/mkenney/docker-npm"><img src="https://travis-ci.org/mkenney/docker-npm.svg?branch=master" alt="Build status"></a>
+        <a href="https://github.com/mkenney/docker-npm/issues"><img src="https://img.shields.io/github/issues-raw/mkenney/docker-npm.svg" alt="Open Issues"></a>
+    </td><td width="80%">
+        <h3><a href="https://github.com/mkenney/docker-npm/blob/master/README.md">docker-npm</a></h3>
+        <p>npm, yarn, node, npx, bower, grunt, gulp, generate-md - build and dev tools.</p>
+        <p><code>docker-npm</code> provides a set of <a href="https://github.com/mkenney/docker-npm/tree/master/bin">shell scripts</a> that manage <a href="https://nodejs.org/">Node.js</a> docker images. The <a href="https://hub.docker.com/r/mkenney/npm/tags/">images</a> contain the latest stable <code>bower</code>, <code>generate-md</code>, <code>grunt</code>, <code>gulp</code>, <code>node</code>, <code>npm</code>, <code>npx</code>, and <code>yarn</code>, binaries for <a href="https://hub.docker.com/_/node/"><code>node</code></a>.</p>
     </td>
 </tr><tr>
     <td width="20%" align="right" valign="middle">
