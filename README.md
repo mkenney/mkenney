@@ -64,7 +64,7 @@ Well-rounded, goal oriented, professional software developer with extensive expe
         <ul>
             <li>support for sanitizing strings from log output to aid in preventing leaking sensitive data.</li>
             <li>additional default fields `host` and `caller`.</li>
-            <li>verbose output including the full backtrace of logger calls.</li>
+            <li>multiple log levels including verbose output of the full backtrace of logger calls.</li>
             <li>gRPC request interceptors.</li>
         </ul>
         <sup><a href="https://github.com/bdlm/log/blob/master/README.md">...more</a></sup>
