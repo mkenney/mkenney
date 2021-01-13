@@ -39,7 +39,7 @@ Well-rounded, goal oriented, professional software developer with extensive expe
         <p><code>k8s-proxy</code> provides a simple HTTP proxy service for easily working with multiple web services in a <a href="https://kubernetes.io/">Kubernetes</a> development environment. A <a href="https://hub.docker.com/r/mkenney/k8s-proxy/">Docker image</a> is available.</p>
     </td>
 </tr><tr>
-    <td width="20%" align="center" valign="middle">
+    <td width="20%" align="right" valign="middle">
         <img src="http://docker-badges.webbedlam.com/image/mkenney/npm">
         <a href="https://github.com/mkenney/docker-npm/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mkenney/docker-npm.svg" alt="MIT License"></a>
         <a href="https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#mature"><img src="https://img.shields.io/badge/stability-mature-008000.svg" alt="Mature"></a>
@@ -51,7 +51,7 @@ Well-rounded, goal oriented, professional software developer with extensive expe
         <p><code>docker-npm</code> provides a set of <a href="https://github.com/mkenney/docker-npm/tree/master/bin">shell scripts</a> that manage <a href="https://nodejs.org/">Node.js</a> docker images. The <a href="https://hub.docker.com/r/mkenney/npm/tags/">images</a> contain the latest stable <code>bower</code>, <code>generate-md</code>, <code>grunt</code>, <code>gulp</code>, <code>node</code>, <code>npm</code>, <code>npx</code>, and <code>yarn</code>, binaries for <a href="https://hub.docker.com/_/node/"><code>node</code></a>.</p>
     </td>
 </tr><tr>
-    <td width="20%" align="left" padding="5%" valign="middle">
+    <td width="20%" align="right" valign="middle">
         <a href="https://github.com/bdlm/log/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT"></a>
         <a href="https://github.com/bdlm/log/blob/master/CHANGELOG.md"><img src="https://img.shields.io/github/v/release/bdlm/log" alt="Release"></a>
         <a href="https://pkg.go.dev/github.com/bdlm/log"><img src="https://godoc.org/github.com/bdlm/log?status.svg" alt="GoDoc"></a>
