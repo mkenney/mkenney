@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/mkenney">
-        <img width="50%" src="https://github-readme-stats.vercel.app/api?username=mkenney" />
+        <img width="55%" src="https://github-readme-stats.vercel.app/api?username=mkenney" />
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
         <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkenney&hide=perl,vim+script,html,css&langs_count=20&layout=compact" />
