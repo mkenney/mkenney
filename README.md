@@ -51,7 +51,7 @@ Well-rounded, goal oriented, professional software developer with extensive expe
         <p><code>docker-npm</code> provides a set of <a href="https://github.com/mkenney/docker-npm/tree/master/bin">shell scripts</a> that manage <a href="https://nodejs.org/">Node.js</a> docker images. The <a href="https://hub.docker.com/r/mkenney/npm/tags/">images</a> contain the latest stable <code>bower</code>, <code>generate-md</code>, <code>grunt</code>, <code>gulp</code>, <code>node</code>, <code>npm</code>, <code>npx</code>, and <code>yarn</code>, binaries for <a href="https://hub.docker.com/_/node/"><code>node</code></a>.</p>
     </td>
 </tr><tr>
-    <td width="20%" align="left" padding="5px" valign="middle">
+    <td width="20%" align="left" padding="5%" valign="middle">
         <a href="https://github.com/bdlm/log/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT"></a>
         <a href="https://github.com/bdlm/log/blob/master/CHANGELOG.md"><img src="https://img.shields.io/github/v/release/bdlm/log" alt="Release"></a>
         <a href="https://pkg.go.dev/github.com/bdlm/log"><img src="https://godoc.org/github.com/bdlm/log?status.svg" alt="GoDoc"></a>
