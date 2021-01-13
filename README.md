@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" valign="top">
     <a href="https://github.com/mkenney"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mkenney&repo=go-chrome" /></a>
     <a href="https://github.com/mkenney"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mkenney&repo=docker-npm" /></a>
     <a href="https://github.com/mkenney"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mkenney&repo=k8s-proxy" /></a>
