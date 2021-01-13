@@ -6,7 +6,8 @@ Well-rounded, goal oriented, professional software developer with extensive expe
 
 A few of the projects I work on in my free time.
 
-<sup><a href="https://github.com/mkenney?tab=repositories">full list</a></sup>
+<sup><a href="https://github.com/mkenney?tab=repositories">full list</a></sup><br>
+<sup><a href="https://github.com/bdlm?tab=repositories">full list</a></sup>
 
 <table><tr>
     <td width="20%" align="center" valign="middle">
