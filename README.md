@@ -101,8 +101,8 @@ A few of the things that keep me busy.
 </tr></table>
 
 <p align="center">
-    <a href="https://github.com/mkenney"><img height="200px" src="https://github-readme-stats.vercel.app/api?username=mkenney&count_private=true&show_icons=true&theme=react" /></a>
-    <a href="https://github.com/mkenney"><img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkenney&theme=react&hide=perl,vim+script,html,css&langs_count=20&layout=compact" /></a>
+    <a href="https://github.com/mkenney"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=mkenney&count_private=true&show_icons=true&theme=react" /></a>
+    <a href="https://github.com/mkenney"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkenney&theme=react&hide=perl,vim+script,html,css&langs_count=20&layout=compact" /></a>
 </p>
 
 <h4 align="center"><code>free time</code></h2>
