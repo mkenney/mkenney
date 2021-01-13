@@ -4,7 +4,7 @@ Well-rounded, goal oriented, professional software developer with extensive expe
 
 <h2 align="center"><code>projects</code></h2>
 
-A few of the projects I work on in my free time.
+A few of the things that keep me busy.
 
 <table><tr>
     <td width="20%" align="center" valign="middle">
@@ -100,7 +100,22 @@ A few of the projects I work on in my free time.
     </td>
 </tr></table>
 
+<table><tr>
+    <td>
+    <a href="https://github.com/mkenney"><img src="https://github-readme-stats.vercel.app/api?username=mkenney&count_private=true&show_icons=true&theme=react" /></a>
+    </td><td>
+    <a href="https://github.com/mkenney"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkenney&theme=react&hide=perl,vim+script,html,css&langs_count=20&layout=compact" /></a>
+    </td>
+</tr></table>
+
 <p align="center">
     <a href="https://github.com/mkenney"><img height="200px" src="https://github-readme-stats.vercel.app/api?username=mkenney&count_private=true&show_icons=true&theme=react" /></a>
     <a href="https://github.com/mkenney"><img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkenney&theme=react&hide=perl,vim+script,html,css&langs_count=20&layout=compact" /></a>
 </p>
+
+<h2 align="center"><code>free time</code></h2>
+
+I've recently started learning about electronic engineering and started building an 8-bit CPU and computer using simple logic gates following a design by <a href="https://eater.net/8bit">Ben Eater</a>. It's a ton of fun!
+
+<img src="">
+
