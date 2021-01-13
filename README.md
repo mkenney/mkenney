@@ -68,7 +68,7 @@ A few of the projects I work on in my free time.
         <p><code>bdlm/log</code> is a structured logger for Go and is fully API compatible with the standard libaray log package. This package adds:
         <ul>
             <li>support for sanitizing strings from log output to aid in preventing leaking sensitive data.</li>
-            <li>additional default fields `host` and `caller`.</li>
+            <li>additional default fields <code>host</code> and <code>caller</code>.</li>
             <li>multiple log levels including verbose output of the full backtrace of logger calls.</li>
             <li>gRPC request interceptors.</li>
         </ul>
