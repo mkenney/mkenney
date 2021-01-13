@@ -100,14 +100,6 @@ A few of the things that keep me busy.
     </td>
 </tr></table>
 
-<table><tr>
-    <td>
-    <a href="https://github.com/mkenney"><img src="https://github-readme-stats.vercel.app/api?username=mkenney&count_private=true&show_icons=true&theme=react" /></a>
-    </td><td>
-    <a href="https://github.com/mkenney"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkenney&theme=react&hide=perl,vim+script,html,css&langs_count=20&layout=compact" /></a>
-    </td>
-</tr></table>
-
 <p align="center">
     <a href="https://github.com/mkenney"><img height="200px" src="https://github-readme-stats.vercel.app/api?username=mkenney&count_private=true&show_icons=true&theme=react" /></a>
     <a href="https://github.com/mkenney"><img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkenney&theme=react&hide=perl,vim+script,html,css&langs_count=20&layout=compact" /></a>
