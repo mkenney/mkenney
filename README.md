@@ -98,6 +98,6 @@ A few of the projects I work on in my free time.
 </tr></table>
 
 <p align="center">
-    <a href="https://github.com/mkenney"><img width="54%" src="https://github-readme-stats.vercel.app/api?username=mkenney&theme=prussian" /></a>
+    <a href="https://github.com/mkenney"><img width="53%" src="https://github-readme-stats.vercel.app/api?username=mkenney&theme=prussian" /></a>
     <a href="https://github.com/mkenney"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkenney&theme=prussian&hide=perl,vim+script,html,css&langs_count=20&layout=compact" /></a>
 </p>
