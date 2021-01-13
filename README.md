@@ -11,6 +11,12 @@ Well-rounded, goal oriented, professional software developer with extensive expe
         <p>A golang library for interacting with the <a href="https://chromedevtools.github.io/devtools-protocol/">Chrome DevTools Protocol</a>.</p>
         <p><code>go-chrome</code> aims to be a complete <a href="https://chromedevtools.github.io/devtools-protocol/">Chrome DevTools Protocol</a> implementation. The primary use-case behind this project is interacting with <a href="https://developers.google.com/web/updates/2017/04/headless-chrome">headless Google Chrome</a> in a container environment, but it should be appropriate for developing server side and desktop applications for any browser that supports the devtools protocol.</p>
     </td>
+</tr><tr>
+    <td colspan="2">
+        <h3><a href="https://github.com/mkenney/k8s-proxy/blob/master/README.md">k8s-proxy</a></h3>
+        <p>A simple, dynamic HTTP ingress service for Kubernetes development environments.</p>
+        <p><code>k8s-proxy</code> provides a simple HTTP proxy service for easily working with multiple web services in a <a href="https://kubernetes.io/">Kubernetes</a> development environment. A <a href="https://hub.docker.com/r/mkenney/k8s-proxy/">Docker image</a> is available.</p>
+    </td>
 </tr></table>
 
 #
