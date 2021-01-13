@@ -3,7 +3,7 @@
 Well-rounded, goal oriented, professional software developer with extensive experience planning, developing and implementing a wide variety of solutions for both large corporations and small startups. In addition to being a highly skilled software engineer, specialties include designing both technical and non-technical solutions to meet all types of business needs, crafting and implementing development processes and leading teams to deliver high-quality software. Interested in a software engineering position that makes use of skills developed over years of solving the complex problems that businesses face.
 
 <h2 align="center"><code>projects</code></h2>
-
+http://docker-badges.webbedlam.com/image/mkenney/npm
 <table><tr>
     <td width="20%" align="center" valign="middle">
         <img src="https://github.com/mkenney/go-chrome/wiki/assets/images/gopher-logo.png" width="300px">
@@ -22,6 +22,11 @@ Well-rounded, goal oriented, professional software developer with extensive expe
         <h3><a href="https://github.com/mkenney/k8s-proxy/blob/master/README.md">k8s-proxy</a></h3>
         <p>A simple, dynamic HTTP ingress service for Kubernetes development environments.</p>
         <p><code>k8s-proxy</code> provides a simple HTTP proxy service for easily working with multiple web services in a <a href="https://kubernetes.io/">Kubernetes</a> development environment. A <a href="https://hub.docker.com/r/mkenney/k8s-proxy/">Docker image</a> is available.</p>
+    </td>
+</tr><tr>
+    <td width="20%" align="center" valign="middle">
+        <img src="http://docker-badges.webbedlam.com/image/mkenney/npm">
+    </td><td width="80%">
     </td>
 </tr></table>
 
