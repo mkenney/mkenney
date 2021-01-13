@@ -6,8 +6,8 @@ Well-rounded, goal oriented, professional software developer with extensive expe
 
 <table><tr>
     <td width="20%" align="center" valign="middle">
-        <a href="https://www.linkedin.com/in/michaelkenney/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/mkenney/Resume/blob/master/README.md"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Resume"></a>
+        <a href="https://www.linkedin.com/in/michaelkenney"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/mkenney"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
     </td><td width="80%">
         <h3><a href="https://github.com/mkenney/Resume/blob/master/README.md">Resume</a></h3>
         <p>My resume and code samples</p>
@@ -94,13 +94,6 @@ Well-rounded, goal oriented, professional software developer with extensive expe
         <p>To keep me sane.</p>
     </td>
 </tr></table>
-
-<p align="center">
-    <a href="https://github.com/bdlm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bdlm&repo=log" /></a>
-    <a href="https://github.com/bdlm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bdlm&repo=errors" /></a>
-    <a href="https://github.com/bdlm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bdlm&repo=std" /></a>
-    <a href="https://github.com/bdlm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bdlm&repo=cast" /></a>
-</p>
 
 <p align="center">
     <a href="https://github.com/mkenney"><img width="54%" src="https://github-readme-stats.vercel.app/api?username=mkenney" /></a>
