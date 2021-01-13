@@ -107,7 +107,7 @@ A few of the things that keep me busy.
     <a href="https://github.com/mkenney"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkenney&theme=react&hide=perl,vim+script,html,css&langs_count=20&layout=compact" /></a>
 </p>
 
-<h4 align="center"><code>free time</code></h2>
+<h4 align="center"><code>free time</code> 😷</h2>
 
 I've recently started learning about electronic engineering and started building an 8-bit CPU and computer using simple logic gates following a design by <a href="https://eater.net/8bit">Ben Eater</a>. It's a ton of fun and I'm learning a lot!
 
