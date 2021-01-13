@@ -85,7 +85,7 @@ A few of the projects I work on in my free time.
     </td><td width="80%">
         <h3><a href="https://github.com/bdlm/errors/blob/master/README.md">bdlm/errors</a></h3>
         <p>Simple, concise error handling and annotation for Go.</p>
-        <p><code>bdlm/errors</code> provides simple, concise, useful error handling and annotation. This package aims to implement the <a href="https://go.googlesource.com/proposal/+/master/design/go2draft-error-inspection.md">Error Inspection</a> and <a href="https://go.googlesource.com/proposal/+/master/design/go2draft-error-values-overview.md">Error Values</a> Go2 <a href="https://go.googlesource.com/proposal/+/master/design/go2draft.md">draft designs</a> with full error trace support. Implements <a href="https://github.com/bdlm/std/blob/master/errors/error.go">several useful interfaces</a> including `Wrapper`, `Caller`, and `Error`.
+        <p><code>bdlm/errors</code> provides simple, concise, useful error handling and annotation. This package aims to implement the <a href="https://go.googlesource.com/proposal/+/master/design/go2draft-error-inspection.md">Error Inspection</a> and <a href="https://go.googlesource.com/proposal/+/master/design/go2draft-error-values-overview.md">Error Values</a> Go2 <a href="https://go.googlesource.com/proposal/+/master/design/go2draft.md">draft designs</a> with full error trace support. Implements <a href="https://github.com/bdlm/std/blob/master/errors/error.go">several useful interfaces</a> including <code>Wrapper</code>, <code>Caller</code>, and <code>Error</code>.
         <br><sup><a href="https://github.com/bdlm/errors/blob/master/README.md">...more</a></sup>
         </p>
     </td>
