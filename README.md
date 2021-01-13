@@ -59,7 +59,7 @@ Well-rounded, goal oriented, professional software developer with extensive expe
         <a href="https://codecov.io/gh/bdlm/log"><img src="https://img.shields.io/codecov/c/github/bdlm/log/master.svg" alt="Coverage status"></a>
     </td><td width="80%">
         <h3><a href="https://github.com/bdlm/log/blob/master/README.md">bdlm/log</a></h3>
-        <p>Structured logging for Go</p>
+        <p>Structured logging for Go.</p>
         <p><code>bdlm/log</code> is a structured logger for Go and is fully API compatible with the standard libaray log package. This package adds:
         <ul>
             <li>support for sanitizing strings from log output to aid in preventing leaking sensitive data.</li>
@@ -68,6 +68,20 @@ Well-rounded, goal oriented, professional software developer with extensive expe
             <li>gRPC request interceptors.</li>
         </ul>
         <sup><a href="https://github.com/bdlm/log/blob/master/README.md">...more</a></sup>
+        </p>
+    </td>
+</tr><tr>
+    <td width="20%" align="right" valign="middle">
+        <a href="https://github.com/bdlm/errors/blob/master/LICENSE"><img src="https://img.shields.io/github/license/bdlm/errors.svg" alt="MIT"></a>
+        <a href="https://github.com/bdlm/errors/blob/master/CHANGELOG.md"><img src="https://img.shields.io/github/v/release/bdlm/errors" alt="Release"></a>
+        <a href="https://pkg.go.dev/github.com/bdlm/errors/v2#pkg-examples"><img src="https://godoc.org/github.com/bdlm/errors?status.svg" alt="GoDoc"></a>
+        <a href="https://travis-ci.org/bdlm/errors"><img src="https://travis-ci.org/bdlm/errors.svg?branch=master" alt="Build status"></a>
+        <a href="https://codecov.io/gh/bdlm/errors"><img src="https://img.shields.io/codecov/c/github/bdlm/errors/master.svg" alt="Coverage status"></a>
+    </td><td width="80%">
+        <h3><a href="https://github.com/bdlm/errors/blob/master/README.md">bdlm/errors</a></h3>
+        <p>Simple, concise error handling and annotation for Go.</p>
+        <p><code>bdlm/errors</code> provides simple, concise, useful error handling and annotation. This package aims to implement the <a href="https://go.googlesource.com/proposal/+/master/design/go2draft-error-inspection.md">Error Inspection</a> and <a href="https://go.googlesource.com/proposal/+/master/design/go2draft-error-values-overview.md">Error Values</a> Go2 <a href="https://go.googlesource.com/proposal/+/master/design/go2draft.md">draft designs</a> with full error trace support.
+        <sup><a href="https://github.com/bdlm/errors/blob/master/README.md">...more</a></sup>
         </p>
     </td>
 </tr><tr>
