@@ -60,7 +60,7 @@ Well-rounded, goal oriented, professional software developer with extensive expe
     </td><td width="80%">
         <h3><a href="https://github.com/bdlm/log/blob/master/README.md">bdlm/log</a></h3>
         <p>Structured logging for Go</p>
-        <p><code>bdlm/log</code> is a structured logger for Go and is fully API compatible with both the standard libaray log package as well as the <a href="https://github.com/sirupsen/logrus"><code>sirupsen/logrus</code></a> package.</p>
+        <p><code>bdlm/log</code> is a structured logger for Go and is fully API compatible with the standard libaray log package.</p>
         <p>
         This package adds:
         <ul>
