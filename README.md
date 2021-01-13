@@ -21,6 +21,7 @@ A few of the things that keep me busy.
             <li>Authentication services design and implementation.</li>
             <li>Docker, Kubernetes, AWS, Jenkins, Terraform, Helm, etc.</li>
             <li>Systems integration planning and execution.</li>
+            <li>Architecture and engineering best practices advocate.</li>
         </ul></p>
         <sup><a href="https://github.com/mkenney/Resume/blob/master/Michael%20Kenney%20-%20Resume.pdf">...more</a></sup>
     </td>
@@ -34,14 +35,15 @@ A few of the things that keep me busy.
     </td><td width="80%">
         <h3><a href="https://github.com/bdlm/log/blob/master/README.md">bdlm/log</a></h3>
         <p>Structured logging for Go.</p>
-        <p><code>bdlm/log</code> is a structured logger for Go and is fully API compatible with the standard libaray log package. This package adds:
-        <ul>
-            <li>support for sanitizing strings from log output to aid in preventing leaking sensitive data.</li>
-            <li>additional default fields <code>host</code> and <code>caller</code>.</li>
-            <li>multiple log levels including verbose output of the full backtrace of logger calls.</li>
-            <li>gRPC request interceptors.</li>
-        </ul>
-        <sup><a href="https://github.com/bdlm/log/blob/master/README.md">...more</a></sup>
+        <p>
+            <code>bdlm/log</code> is a structured logger for Go and is fully API compatible with the standard libaray log package. This package adds:
+            <ul>
+                <li>support for sanitizing strings from log output to aid in preventing leaking sensitive data.</li>
+                <li>additional default fields <code>host</code> and <code>caller</code>.</li>
+                <li>multiple log levels including verbose output of the full backtrace of logger calls.</li>
+                <li>gRPC request interceptors.</li>
+            </ul>
+            <sup><a href="https://github.com/bdlm/log/blob/master/README.md">...more</a></sup>
         </p>
     </td>
 </tr><tr>
