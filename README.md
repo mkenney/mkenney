@@ -3,7 +3,7 @@
 Well-rounded, goal oriented, professional software developer with extensive experience planning, developing and implementing a wide variety of solutions for both large corporations and small startups. In addition to being a highly skilled software engineer, specialties include designing both technical and non-technical solutions to meet all types of business needs, crafting and implementing development processes and leading teams to deliver high-quality software. Interested in a software engineering position that makes use of skills developed over years of solving the complex problems that businesses face.
 
 <h2 align="center"><code>projects</code></h2>
-http://docker-badges.webbedlam.com/image/mkenney/npm
+
 <table><tr>
     <td width="20%" align="center" valign="middle">
         <img src="https://github.com/mkenney/go-chrome/wiki/assets/images/gopher-logo.png" width="300px">
@@ -34,6 +34,15 @@ http://docker-badges.webbedlam.com/image/mkenney/npm
         <h3><a href="https://github.com/mkenney/docker-npm/blob/master/README.md">docker-npm</a></h3>
         <p>npm, yarn, node, npx, bower, grunt, gulp, generate-md - build and dev tools.</p>
         <p><code>docker-npm</code> provides a set of <a href="https://github.com/mkenney/docker-npm/tree/master/bin">shell scripts</a> that manage <a href="https://nodejs.org/">Node.js</a> docker images. The <a href="https://hub.docker.com/r/mkenney/npm/tags/">images</a> contain the latest stable <code>bower</code>, <code>generate-md</code>, <code>grunt</code>, <code>gulp</code>, <code>node</code>, <code>npm</code>, <code>npx</code>, and <code>yarn</code>, binaries for <a href="https://hub.docker.com/_/node/"><code>node</code></a>.</p>
+    </td>
+</tr><tr>
+    <td width="20%" align="center" valign="middle">
+        <a href="https://github.com/mkenney/DatatableJs/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mkenney/DatatableJs.svg" alt="MIT License"></a>
+        <a href="https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#mature"><img src="https://img.shields.io/badge/stability-mature-008000.svg" alt="Mature"></a>
+    </td><td width="80%">
+        <h3><a href="https://github.com/mkenney/DatatableJs/blob/master/README.md">DatatableJs</a></h3>
+        <p>A library for manipulating and filtering tabular data</p>
+        <p><code>DatatableJs</code> provides a library for manipulating and filtering tabular data. I have used this in various applications and have found many convenient ways to utilize it to manipulate interface elements, tabular data, and general data injest.</p>
     </td>
 </tr></table>
 
