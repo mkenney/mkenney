@@ -1,8 +1,8 @@
-<h3 align="center"><code>whoami</code></h2>
+<h4 align="center"><code>whoami</code></h2>
 
 Well-rounded, goal oriented, professional software developer with extensive experience planning, developing and implementing a wide variety of solutions for both large corporations and small startups. In addition to being a highly skilled software engineer, specialties include designing both technical and non-technical solutions to meet all types of business needs, crafting and implementing development processes and leading teams to deliver high-quality software. Interested in a software engineering position that makes use of skills developed over years of solving the complex problems that businesses face.
 
-<h3 align="center"><code>projects</code></h2>
+<h4 align="center"><code>projects</code></h2>
 
 A few of the things that keep me busy.
 
@@ -105,7 +105,7 @@ A few of the things that keep me busy.
     <a href="https://github.com/mkenney"><img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkenney&theme=react&hide=perl,vim+script,html,css&langs_count=20&layout=compact" /></a>
 </p>
 
-<h3 align="center"><code>free time</code></h2>
+<h4 align="center"><code>free time</code></h2>
 
 I've recently started learning about electronic engineering and started building an 8-bit CPU and computer using simple logic gates following a design by <a href="https://eater.net/8bit">Ben Eater</a>. It's a ton of fun!
 
