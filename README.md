@@ -60,9 +60,7 @@ Well-rounded, goal oriented, professional software developer with extensive expe
     </td><td width="80%">
         <h3><a href="https://github.com/bdlm/log/blob/master/README.md">bdlm/log</a></h3>
         <p>Structured logging for Go</p>
-        <p><code>bdlm/log</code> is a structured logger for Go and is fully API compatible with the standard libaray log package.</p>
-        <p>
-        This package adds:
+        <p><code>bdlm/log</code> is a structured logger for Go and is fully API compatible with the standard libaray log package. This package adds:
         <ul>
             <li>support for sanitizing strings from log output to aid in preventing leaking sensitive data.</li>
             <li>additional default fields `host` and `caller`.</li>
