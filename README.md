@@ -2,6 +2,17 @@
 
 Well-rounded, goal oriented, professional software developer with extensive experience planning, developing and implementing a wide variety of solutions for both large corporations and small startups. In addition to being a highly skilled software engineer, specialties include designing both technical and non-technical solutions to meet all types of business needs, crafting and implementing development processes and leading teams to deliver high-quality software. Interested in a software engineering position that makes use of skills developed over years of solving the complex problems that businesses face.
 
+<h2 align="center"><code>projects</code></h2>
+
+### [go-chrome](https://github.com/mkenney/go-chrome/blob/master/README.md)
+
+A golang library for interacting with the [Chrome DevTools Protocol](https://chromedevtools.github.io/devtools-protocol/).
+
+`go-chrome` aims to be a complete [Chrome DevTools Protocol](https://chromedevtools.github.io/devtools-protocol/) implementation. The primary use-case behind this project is interacting with [headless Google Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome) in a container environment, but it should be appropriate for developing server side and desktop applications for any browser that supports the devtools protocol.
+
+#
+
+
 <p align="center" valign="top">
     <a href="https://github.com/mkenney"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mkenney&repo=go-chrome" /></a>
     <a href="https://github.com/mkenney"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mkenney&repo=docker-npm" /></a>
