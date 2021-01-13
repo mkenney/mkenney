@@ -15,13 +15,10 @@ Well-rounded, goal oriented, professional software developer with extensive expe
 </tr><tr>
     <td width="20%">
         <a href="https://github.com/mkenney/k8s-proxy/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mkenney/k8s-proxy.svg" alt="MIT License"></a>
-        <a href="https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#alpha"><img src="https://img.shields.io/badge/stability-alpha-f4d03f.svg" alt="Beta"></a>
+        <a href="https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#alpha"><img src="https://img.shields.io/badge/stability-alpha-f4d03f.svg" alt="Alpha"></a>
         <a href="https://travis-ci.org/mkenney/k8s-proxy"><img src="https://travis-ci.org/mkenney/k8s-proxy.svg?branch=master" alt="Build status"></a>
         <a href="https://codecov.io/gh/mkenney/k8s-proxy"><img src="https://img.shields.io/codecov/c/github/mkenney/k8s-proxy/master.svg" alt="Coverage status"></a>
         <a href="https://goreportcard.com/report/github.com/mkenney/k8s-proxy"><img src="https://goreportcard.com/badge/github.com/mkenney/k8s-proxy" alt="Go Report Card"></a>
-        <a href="https://github.com/mkenney/k8s-proxy/issues"><img src="https://img.shields.io/github/issues-raw/mkenney/k8s-proxy.svg" alt="Github issues"></a>
-        <a href="https://github.com/mkenney/k8s-proxy/pulls"><img src="https://img.shields.io/github/issues-pr/mkenney/k8s-proxy.svg" alt="Github pull requests"></a>
-        <a href="https://godoc.org/github.com/mkenney/k8s-proxy"><img src="https://godoc.org/github.com/mkenney/k8s-proxy?status.svg" alt="GoDoc"></a>
     </td><td width="80%">
         <h3><a href="https://github.com/mkenney/k8s-proxy/blob/master/README.md">k8s-proxy</a></h3>
         <p>A simple, dynamic HTTP ingress service for Kubernetes development environments.</p>
