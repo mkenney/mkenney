@@ -15,8 +15,8 @@ Well-rounded, goal oriented, professional software developer with extensive expe
             <li>Software and systems architecture design and implementation with a wide variety of technologies.</li>
             <li>Microservices architecture design and implementation.</li>
             <li>Authentication services design and implementation.</li>
-            <li>Docker, Kubernetes, AWS, Jenkins, Terraform, Helm, etc.<li>
-            <li>Systems integration.<li>
+            <li>Docker, Kubernetes, AWS, Jenkins, Terraform, Helm, etc.</li>
+            <li>Systems integration.</li>
         </ul></p>
     </td>
 </tr><tr>
