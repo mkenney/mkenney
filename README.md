@@ -109,4 +109,4 @@ A few of the things that keep me busy.
 
 I've recently started learning about electronic engineering and started building an 8-bit CPU and computer using simple logic gates following a design by <a href="https://eater.net/8bit">Ben Eater</a>. It's a ton of fun!
 
-<img width="50%" src="assets/8-bit_CPU.jpg?raw=true">
+<p align="center"><img width="50%" src="assets/8-bit_CPU.jpg?raw=true"></p>
