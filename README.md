@@ -45,7 +45,7 @@ A few of the projects I work on in my free time.
     </td>
 </tr><tr>
     <td width="20%" align="right" valign="middle">
-        <img src="http://docker-badges.webbedlam.com/image/mkenney/npm">
+        <a href="https://hub.docker.com/r/mkenney/npm"><img src="http://docker-badges.webbedlam.com/image/mkenney/npm"></a>
         <a href="https://github.com/mkenney/docker-npm/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mkenney/docker-npm.svg" alt="MIT License"></a>
         <a href="https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#mature"><img src="https://img.shields.io/badge/stability-mature-008000.svg" alt="Mature"></a>
         <a href="https://travis-ci.org/mkenney/docker-npm"><img src="https://travis-ci.org/mkenney/docker-npm.svg?branch=master" alt="Build status"></a>
