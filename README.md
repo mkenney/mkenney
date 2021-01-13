@@ -5,7 +5,7 @@ Well-rounded, goal oriented, professional software developer with extensive expe
 <h2 align="center"><code>projects</code></h2>
 
 <table><tr>
-    <td width="20%">
+    <td width="20%" align="center" valign="middle">
         <img src="https://github.com/mkenney/go-chrome/wiki/assets/images/gopher-logo.png" width="300px">
     </td><td width="80%">
         <h3><a href="https://github.com/mkenney/go-chrome/blob/master/README.md">go-chrome</a></h3>
@@ -13,12 +13,11 @@ Well-rounded, goal oriented, professional software developer with extensive expe
         <p><code>go-chrome</code> aims to be a complete <a href="https://chromedevtools.github.io/devtools-protocol/">Chrome DevTools Protocol</a> implementation. The primary use-case behind this project is interacting with <a href="https://developers.google.com/web/updates/2017/04/headless-chrome">headless Google Chrome</a> in a container environment, but it should be appropriate for developing server side and desktop applications for any browser that supports the devtools protocol.</p>
     </td>
 </tr><tr>
-    <td width="20%">
+    <td width="20%" align="center" valign="middle">
         <a href="https://github.com/mkenney/k8s-proxy/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mkenney/k8s-proxy.svg" alt="MIT License"></a>
         <a href="https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#alpha"><img src="https://img.shields.io/badge/stability-alpha-f4d03f.svg" alt="Alpha"></a>
         <a href="https://travis-ci.org/mkenney/k8s-proxy"><img src="https://travis-ci.org/mkenney/k8s-proxy.svg?branch=master" alt="Build status"></a>
         <a href="https://codecov.io/gh/mkenney/k8s-proxy"><img src="https://img.shields.io/codecov/c/github/mkenney/k8s-proxy/master.svg" alt="Coverage status"></a>
-        <a href="https://goreportcard.com/report/github.com/mkenney/k8s-proxy"><img src="https://goreportcard.com/badge/github.com/mkenney/k8s-proxy" alt="Go Report Card"></a>
     </td><td width="80%">
         <h3><a href="https://github.com/mkenney/k8s-proxy/blob/master/README.md">k8s-proxy</a></h3>
         <p>A simple, dynamic HTTP ingress service for Kubernetes development environments.</p>
