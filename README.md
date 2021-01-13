@@ -13,13 +13,16 @@ A few of the projects I work on in my free time.
     </td><td width="80%">
         <h3><a href="https://github.com/mkenney/Resume/blob/master/README.md">Resume</a></h3>
         <p>My resume and LinkedIn.</p>
-        <p><ul>
-            <li>Software and systems architecture design and implementation with a wide variety of technologies.</li>
+        <p>
+        Full stack professional software developer with extensive experience in all aspects of the software development life cycle.
+        <ul>
+            <li>Software and systems architecture design and implementation with a wide range of technologies.</li>
             <li>Microservices architecture design and implementation.</li>
             <li>Authentication services design and implementation.</li>
             <li>Docker, Kubernetes, AWS, Jenkins, Terraform, Helm, etc.</li>
-            <li>Systems integration.</li>
+            <li>Systems integration planning and execution.</li>
         </ul></p>
+        <sup><a href="https://github.com/mkenney/Resume/blob/master/Michael%20Kenney%20-%20Resume.pdf">...more</a></sup>
     </td>
 </tr><tr>
     <td width="20%" align="center" valign="middle">
