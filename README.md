@@ -65,14 +65,11 @@ Well-rounded, goal oriented, professional software developer with extensive expe
         This package adds:
         <ul>
             <li>support for sanitizing strings from log output to aid in preventing leaking sensitive data.</li>
-            <li>additional default fields host and caller.</li>
+            <li>additional default fields `host` and `caller`.</li>
             <li>verbose output including the full backtrace of logger calls.</li>
-            <li>support for suppressing any default field.</li>
-            <li>TTY formatting and coloring of JSON output.</li>
-            <li>updated formatting for TTY text output.</li>
-            <li>updated default TTY color scheme and color customization.</li>
             <li>gRPC request interceptors.</li>
         </ul>
+        <sup>...more</sup>
         </p>
     </td>
 </tr><tr>
