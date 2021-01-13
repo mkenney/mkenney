@@ -8,7 +8,12 @@ Well-rounded, goal oriented, professional software developer with extensive expe
 
 A golang library for interacting with the [Chrome DevTools Protocol](https://chromedevtools.github.io/devtools-protocol/).
 
-`go-chrome` aims to be a complete [Chrome DevTools Protocol](https://chromedevtools.github.io/devtools-protocol/) implementation. The primary use-case behind this project is interacting with [headless Google Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome) in a container environment, but it should be appropriate for developing server side and desktop applications for any browser that supports the devtools protocol.
+<table><tr>
+    <td width="20%"><img src="https://github.com/mkenney/go-chrome/wiki/assets/images/gopher-logo.png" width="300px"></td>
+    <td width="80%">
+        <code>go-chrome</code> aims to be a complete <a href="https://chromedevtools.github.io/devtools-protocol/">Chrome DevTools Protocol</a> implementation. The primary use-case behind this project is interacting with <a href="https://developers.google.com/web/updates/2017/04/headless-chrome">headless Google Chrome</a> in a container environment, but it should be appropriate for developing server side and desktop applications for any browser that supports the devtools protocol.
+    </td>
+</tr></table>
 
 #
 
