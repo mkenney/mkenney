@@ -31,6 +31,9 @@ http://docker-badges.webbedlam.com/image/mkenney/npm
         <a href="https://travis-ci.org/mkenney/docker-npm"><img src="https://travis-ci.org/mkenney/docker-npm.svg?branch=master" alt="Build status"></a>
         <a href="https://github.com/mkenney/docker-npm/issues"><img src="https://img.shields.io/github/issues-raw/mkenney/docker-npm.svg" alt="Open Issues"></a>
     </td><td width="80%">
+        <h3><a href="https://github.com/mkenney/docker-npm/blob/master/README.md">docker-npm</a></h3>
+        <p>npm, yarn, node, npx, bower, grunt, gulp, generate-md - build and dev tools.</p>
+        <p><code>docker-npm</code> provides a set of <a href="https://github.com/mkenney/docker-npm/tree/master/bin">shell scripts</a> that manage <a href="https://nodejs.org/">Node.js</a> docker images. The <a href="https://hub.docker.com/r/mkenney/npm/tags/">images</a> contain the latest stable <code>bower</code>, <code>generate-md</code>, <code>grunt</code>, <code>gulp</code>, <code>node</code>, <code>npm</code>, <code>npx</code>, and <code>yarn</code>, binaries for <a href="https://hub.docker.com/_/node/"><code>node</code></a>.</p>
     </td>
 </tr></table>
 
