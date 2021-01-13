@@ -52,12 +52,25 @@ Well-rounded, goal oriented, professional software developer with extensive expe
     </td>
 </tr><tr>
     <td width="20%" align="center" valign="middle">
-        <a href="https://github.com/mkenney/DatatableJs/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mkenney/DatatableJs.svg" alt="MIT License"></a>
+        <a href="https://github.com/bdlm/log/blob/master/LICENSE"><img src="https://img.shields.io/github/license/bdlm/log.svg" alt="MIT License"></a>
         <a href="https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#mature"><img src="https://img.shields.io/badge/stability-mature-008000.svg" alt="Mature"></a>
     </td><td width="80%">
-        <h3><a href="https://github.com/mkenney/DatatableJs/blob/master/README.md">DatatableJs</a></h3>
-        <p>A library for manipulating and filtering tabular data</p>
-        <p><code>DatatableJs</code> provides a library for manipulating and filtering tabular data. I have used this in various applications and have found many convenient ways to utilize it to manipulate interface elements, tabular data, and general data injest.</p>
+        <h3><a href="https://github.com/bdlm/log/blob/master/README.md">bdlm/log</a></h3>
+        <p>Structured logging for Go</p>
+        <p><code>bdlm/log</code> is a structured logger for Go and is fully API compatible with both the standard libaray log package as well as the <a href="https://github.com/sirupsen/logrus"><code>sirupsen/logrus</code></a> package.</p>
+        <p>
+        This package adds:
+        <ul>
+            <li>support for sanitizing strings from log output to aid in preventing leaking sensitive data.</li>
+            <li>additional default fields host and caller.</li>
+            <li>verbose output including the full backtrace of logger calls.</li>
+            <li>support for suppressing any default field.</li>
+            <li>TTY formatting and coloring of JSON output.</li>
+            <li>updated formatting for TTY text output.</li>
+            <li>updated default TTY color scheme and color customization.</li>
+            <li>gRPC request interceptors.</li>
+        </ul>
+        </p>
     </td>
 </tr><tr>
     <td width="20%" align="center" valign="middle">
@@ -70,10 +83,6 @@ Well-rounded, goal oriented, professional software developer with extensive expe
     </td>
 </tr></table>
 
-#
-
-
-<
 <p align="center">
     <a href="https://github.com/bdlm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bdlm&repo=log" /></a>
     <a href="https://github.com/bdlm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bdlm&repo=errors" /></a>
