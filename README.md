@@ -12,7 +12,7 @@ A few of the projects I work on in my free time.
 <a href="https://github.com/mkenney"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
     </td><td width="80%">
         <h3><a href="https://github.com/mkenney/Resume/blob/master/README.md">Resume</a></h3>
-        <p>My resume and code samples</p>
+        <p>My resume and LinkedIn.</p>
         <p><ul>
             <li>Software and systems architecture design and implementation with a wide variety of technologies.</li>
             <li>Microservices architecture design and implementation.</li>
