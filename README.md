@@ -4,7 +4,7 @@ Well-rounded, goal oriented, professional software developer with extensive expe
 
 <h4 align="center"><code>projects</code></h2>
 
-A few of the things that keep me busy.
+A few of the things that keep me busy:
 
 <table><tr>
     <td width="20%" align="center" valign="middle">
