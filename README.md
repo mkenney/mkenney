@@ -4,7 +4,7 @@ Well-rounded, goal oriented, professional software developer with extensive expe
 
 <h2 align="center"><code>projects</code></h2>
 
-### [`go-chrome`](https://github.com/mkenney/go-chrome/blob/master/README.md)
+### [go-chrome](https://github.com/mkenney/go-chrome/blob/master/README.md)
 
 A golang library for interacting with the [Chrome DevTools Protocol](https://chromedevtools.github.io/devtools-protocol/).
 
