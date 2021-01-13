@@ -1,8 +1,8 @@
 <a href="https://github.com/mkenney">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkenney" />
+	<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=mkenney" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkenney&hide=perl,vim+script,html,css&langs_count=20&layout=compact" />
+	<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkenney&hide=perl,vim+script,html,css&langs_count=20&layout=compact" />
 </a>
 
 
