@@ -6,6 +6,21 @@ Well-rounded, goal oriented, professional software developer with extensive expe
 
 <table><tr>
     <td width="20%" align="center" valign="middle">
+        <a href="https://www.linkedin.com/in/michaelkenney/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/mkenney/Resume/blob/master/README.md"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Resume"></a>
+    </td><td width="80%">
+        <h3><a href="https://github.com/mkenney/Resume/blob/master/README.md">Resume</a></h3>
+        <p>My resume and code samples</p>
+        <p><ul>
+            <li>Software and systems architecture design and implementation with a wide variety of technologies.</li>
+            <li>Microservices architecture design and implementation.</li>
+            <li>Authentication services design and implementation.</li>
+            <li>Docker, Kubernetes, AWS, Jenkins, Terraform, Helm, etc.<li>
+            <li>Systems integration.<li>
+        </ul></p>
+    </td>
+</tr><tr>
+    <td width="20%" align="center" valign="middle">
         <img src="https://github.com/mkenney/go-chrome/wiki/assets/images/gopher-logo.png" width="300px">
     </td><td width="80%">
         <h3><a href="https://github.com/mkenney/go-chrome/blob/master/README.md">go-chrome</a></h3>
@@ -44,23 +59,21 @@ Well-rounded, goal oriented, professional software developer with extensive expe
         <p>A library for manipulating and filtering tabular data</p>
         <p><code>DatatableJs</code> provides a library for manipulating and filtering tabular data. I have used this in various applications and have found many convenient ways to utilize it to manipulate interface elements, tabular data, and general data injest.</p>
     </td>
+</tr><tr>
+    <td width="20%" align="center" valign="middle">
+        <a href="https://github.com/mkenney/.dotfiles/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mkenney/.dotfiles.svg" alt="MIT License"></a>
+        <a href="https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#experimental"><img src="https://img.shields.io/badge/stability-experimental-orange.svg" alt="Experimental"></a>
+    </td><td width="80%">
+        <h3><a href="https://github.com/mkenney/.dotfiles/blob/master/README.md">.dotfiles</a></h3>
+        <p>My terminal config files.</p>
+        <p>To keep me sane.</p>
+    </td>
 </tr></table>
 
 #
 
 
-<p align="center" valign="top">
-    <a href="https://github.com/mkenney"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mkenney&repo=go-chrome" /></a>
-    <a href="https://github.com/mkenney"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mkenney&repo=docker-npm" /></a>
-    <a href="https://github.com/mkenney"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mkenney&repo=k8s-proxy" /></a>
-    <a href="https://github.com/mkenney"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mkenney&repo=DatatableJs" /></a>
-    <a href="https://github.com/mkenney"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mkenney&repo=ExtendJs" /></a>
-    <a href="https://github.com/mkenney"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mkenney&repo=.dotfiles" /></a>
-    <a href="https://github.com/mkenney"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mkenney&repo=git-status" /></a>
-    <a href="https://github.com/mkenney"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mkenney&repo=git-import" /></a>
-    <a href="https://github.com/mkenney"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mkenney&repo=Resume" /></a>
-</p>
-
+<
 <p align="center">
     <a href="https://github.com/bdlm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bdlm&repo=log" /></a>
     <a href="https://github.com/bdlm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bdlm&repo=errors" /></a>
