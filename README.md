@@ -109,6 +109,6 @@ A few of the things that keep me busy:
 
 <h4 align="center"><code>free time</code> 😷</h2>
 
-I've recently started learning about electronic engineering and started building an 8-bit CPU and computer using simple logic gates following a design by <a href="https://eater.net/8bit">Ben Eater</a>. It's a ton of fun and I'm learning a lot!
+I've [recently started learning](https://github.com/mkenney/8bit-cpu) about electronic engineering and building an 8-bit CPU and computer using simple logic gates following a design by <a href="https://eater.net/8bit">Ben Eater</a>. It's a ton of fun and I'm learning a lot!
 
 <p align="center"><img width="50%" src="assets/8-bit_CPU.jpg?raw=true"></p>
