@@ -27,6 +27,32 @@ A few of the things that keep me busy:
     </td>
 </tr><tr>
     <td width="20%" align="right" valign="middle">
+        <a href="https://github.com/bdlm/cast/blob/main/README.md"><img src="https://github.com/bdlm/cast/wiki/assets/images/gopher.png"></a>
+        <br><br>
+        <a href="https://github.com/bdlm/cast/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT"></a>
+        <a href="https://github.com/bdlm/cast/blob/main/CHANGELOG.md"><img src="https://img.shields.io/github/v/release/bdlm/cast" alt="Release"></a>
+        <a href="https://pkg.go.dev/github.com/bdlm/cast"><img src="https://godoc.org/github.com/bdlm/cast?status.svg" alt="GoDoc"></a>
+        <a href="https://travis-ci.com/bdlm/cast"><img src="https://travis-ci.com/bdlm/cast.svg?branch=main" alt="Build status"></a>
+        <a href="https://codecov.io/gh/bdlm/cast"><img src="https://img.shields.io/codecov/c/github/bdlm/cast/main.svg" alt="Coverage status"></a>
+    </td><td width="80%">
+        <h3><a href="https://github.com/bdlm/cast/blob/main/README.md">bdlm/cast</a></h3>
+        <p>Simple, predictable type conversion for Go.</p>
+        <p>
+            <code>bdlm/cast</code>  provides a generic function to easily convert both simple types (number to a string, 
+            interface ito a bool, etc.) and complex types (slice to map and vice versa, any to func() any, any to chan any, 
+            etc.). Cast does this intelligently when an obvious conversion is possible and logically when a conversion 
+            requires a predictable measureable process, such as casting a map to a slice or a bool to a channel. It doesn’t 
+            make any assumptions about how types should be converted but follows simple predictable rules.
+            <ul>
+                <li><code>intVal := cast.To[int]("8")        // 8 (int)</code></li>
+                <li><code>fltVal := cast.To[float64]("8.31") // 8.31 (float64)</code></li>
+                <li><code>intVal, err := cast.ToE[int]("H!") // 0 (int), unable to cast "H!" of type string to int</code></li>
+            </ul>
+            <sup><a href="https://github.com/bdlm/cast/blob/main/README.md">...more</a></sup>
+        </p>
+    </td>
+</tr><tr>
+    <td width="20%" align="right" valign="middle">
         <a href="https://github.com/bdlm/log/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT"></a>
         <a href="https://github.com/bdlm/log/blob/master/CHANGELOG.md"><img src="https://img.shields.io/github/v/release/bdlm/log" alt="Release"></a>
         <a href="https://pkg.go.dev/github.com/bdlm/log"><img src="https://godoc.org/github.com/bdlm/log?status.svg" alt="GoDoc"></a>
