@@ -30,10 +30,10 @@ A few of the things that keep me busy:
         <a href="https://github.com/bdlm/cast/blob/main/README.md"><img src="https://github.com/bdlm/cast/wiki/assets/images/gopher.png"></a>
         <br><br>
         <a href="https://github.com/bdlm/cast/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT"></a>
-        <a href="https://github.com/bdlm/cast/blob/main/CHANGELOG.md"><img src="https://img.shields.io/github/v/release/bdlm/cast" alt="Release"></a>
-        <a href="https://pkg.go.dev/github.com/bdlm/cast"><img src="https://godoc.org/github.com/bdlm/cast?status.svg" alt="GoDoc"></a>
-        <a href="https://travis-ci.com/bdlm/cast"><img src="https://travis-ci.com/bdlm/cast.svg?branch=main" alt="Build status"></a>
-        <a href="https://codecov.io/gh/bdlm/cast"><img src="https://img.shields.io/codecov/c/github/bdlm/cast/main.svg" alt="Coverage status"></a>
+        <a href="https://github.com/bdlm/cast/blob/master/CHANGELOG.md"><img src="https://img.shields.io/github/v/release/bdlm/cast" alt="Release"></a>
+        <a href="https://pkg.go.dev/github.com/bdlm/cast/v2"><img src="https://godoc.org/github.com/bdlm/cast/v2?status.svg" alt="GoDoc"></a>
+        <a href="https://github.com/bdlm/cast/issues"><img src="https://img.shields.io/github/issues-raw/bdlm/cast.svg" alt="Github issues"></a>
+        <a href="https://github.com/bdlm/cast/pulls"><img src="https://img.shields.io/github/issues-pr/bdlm/cast.svg" alt="Github pull requests"></a>
     </td><td width="80%">
         <h3><a href="https://github.com/bdlm/cast/blob/main/README.md">bdlm/cast</a></h3>
         <p>Simple, predictable type conversion for Go.</p>
@@ -46,6 +46,7 @@ A few of the things that keep me busy:
             <ul>
                 <li><code>intVal := cast.To[int]("8")        // 8 (int)</code></li>
                 <li><code>fltVal := cast.To[float64]("8.31") // 8.31 (float64)</code></li>
+                <li><code>strVal := cast.To[string](8.31)    // "8.31" (string)</code></li>
                 <li><code>intVal, err := cast.ToE[int]("H!") // 0 (int), unable to cast "H!" of type string to int</code></li>
             </ul>
             <sup><a href="https://github.com/bdlm/cast/blob/main/README.md">...more</a></sup>
