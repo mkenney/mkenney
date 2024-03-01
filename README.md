@@ -120,10 +120,10 @@ A few of the things that keep me busy:
     </td>
 </tr><tr>
     <td width="20%" align="right" valign="middle">
-        <a href="https://github.com/mkenney/.dotfiles/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mkenney/.dotfiles.svg" alt="MIT License"></a>
+        <a href="https://github.com/mkenney/.dotfiles/blob/main/LICENSE"><img src="https://img.shields.io/github/license/mkenney/.dotfiles.svg" alt="MIT License"></a>
         <a href="https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#experimental"><img src="https://img.shields.io/badge/stability-experimental-orange.svg" alt="Experimental"></a>
     </td><td width="80%">
-        <h3><a href="https://github.com/mkenney/.dotfiles/blob/master/README.md">.dotfiles</a></h3>
+        <h3><a href="https://github.com/mkenney/.dotfiles/blob/main/README.md">.dotfiles</a></h3>
         <p>My terminal config files.</p>
         <p>To keep me sane.</p>
     </td>
